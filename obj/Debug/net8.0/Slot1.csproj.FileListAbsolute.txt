@@ -1,0 +1,14 @@
+F:\SE\ky9\PRN212\Slot1\Slot1\bin\Debug\net8.0\Slot1.exe
+F:\SE\ky9\PRN212\Slot1\Slot1\bin\Debug\net8.0\Slot1.deps.json
+F:\SE\ky9\PRN212\Slot1\Slot1\bin\Debug\net8.0\Slot1.runtimeconfig.json
+F:\SE\ky9\PRN212\Slot1\Slot1\bin\Debug\net8.0\Slot1.dll
+F:\SE\ky9\PRN212\Slot1\Slot1\bin\Debug\net8.0\Slot1.pdb
+F:\SE\ky9\PRN212\Slot1\Slot1\obj\Debug\net8.0\Slot1.GeneratedMSBuildEditorConfig.editorconfig
+F:\SE\ky9\PRN212\Slot1\Slot1\obj\Debug\net8.0\Slot1.AssemblyInfoInputs.cache
+F:\SE\ky9\PRN212\Slot1\Slot1\obj\Debug\net8.0\Slot1.AssemblyInfo.cs
+F:\SE\ky9\PRN212\Slot1\Slot1\obj\Debug\net8.0\Slot1.csproj.CoreCompileInputs.cache
+F:\SE\ky9\PRN212\Slot1\Slot1\obj\Debug\net8.0\Slot1.dll
+F:\SE\ky9\PRN212\Slot1\Slot1\obj\Debug\net8.0\refint\Slot1.dll
+F:\SE\ky9\PRN212\Slot1\Slot1\obj\Debug\net8.0\Slot1.pdb
+F:\SE\ky9\PRN212\Slot1\Slot1\obj\Debug\net8.0\Slot1.genruntimeconfig.cache
+F:\SE\ky9\PRN212\Slot1\Slot1\obj\Debug\net8.0\ref\Slot1.dll
